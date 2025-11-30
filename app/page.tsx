@@ -55,7 +55,7 @@ export default function PortfolioKauaPaixao() {
 
           {/* Currículo */}
           <Button variant="default" asChild>
-            <a href="/curriculo-kaua-paixao.pdf" download>
+            <a href="/CV - Kauã da Silva Paixão.pdf" download>
               <FileDown className="mr-2 h-4 w-4" /> Baixar Currículo
             </a>
           </Button>
