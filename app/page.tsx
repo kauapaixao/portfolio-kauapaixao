@@ -5,10 +5,10 @@ import { Github, Globe, FileDown, Linkedin } from "lucide-react";
 export default function PortfolioKauaPaixao() {
   const projects = [
     {
-      name: "E-commerce — Vedapremix",
+      name: "E-commerce - Vedapremix",
       link: "https://vedapremix.com.br",
       description:
-        "Atuei como gestor do e-commerce: atualização de produtos, otimização de UI/UX, manutenção da plataforma e suporte ao cliente.",
+        "Atuei como gestor do e-commerce: atualização de produtos, otimização de UI/UX, manutenção/restauração do site e suporte ao cliente.",
     },
     {
       name: "Sistema de Ocorrências (Java + Spring Boot)",
@@ -36,23 +36,11 @@ export default function PortfolioKauaPaixao() {
       <section className="text-center max-w-3xl mb-10">
         <h1 className="text-4xl font-bold mb-2">Kauã da Silva Paixão</h1>
         <p className="text-lg text-slate-700 mb-4">
-          Estudante de <b>Sistemas de Informação</b> no Mackenzie. <br />
-          Desenvolvedor focado em Java, Spring Boot, React, Next.js e Python.
+          Estudante de <b>Sistemas de Informação</b> no Mackenzie.
         </p>
 
         {/* Top Buttons */}
         <div className="flex flex-wrap justify-center gap-4 mt-4">
-
-          {/* GitHub */}
-          <Button variant="outline" asChild>
-            <a
-              href="https://github.com/kauapaixao"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <Github className="mr-2 h-4 w-4" /> GitHub
-            </a>
-          </Button>
 
           {/* LinkedIn */}
           <Button variant="outline" asChild>
