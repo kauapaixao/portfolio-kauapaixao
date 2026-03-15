@@ -86,7 +86,7 @@ export default function PortfolioKauaPaixao() {
 
       {/* FOOTER */}
       <footer className="mt-16 text-slate-500 text-sm">
-        © {new Date().getFullYear()} Kauã Paixão. Todos os direitos reservados.
+        © {new Date().getFullYear()} Kauã Paixão.
       </footer>
     </main>
   );
