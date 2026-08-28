@@ -36,7 +36,7 @@ export default function PortfolioKauaPaixao() {
       <section className="text-center max-w-3xl mb-10">
         <h1 className="text-4xl font-bold mb-2">Kauã da Silva Paixão</h1>
         <p className="text-lg text-slate-700 mb-4">
-          Estudante de <b>aaaSistemas de Informação</b> no Mackenzie. <br />
+          Estudante de <b>Sistemas de Informação</b> no Mackenzie. <br />
         </p>
 
         <div className="flex justify-center gap-4 mt-4">
