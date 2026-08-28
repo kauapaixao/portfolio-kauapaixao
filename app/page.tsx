@@ -41,7 +41,7 @@ export default function PortfolioKauaPaixao() {
 
         <div className="flex justify-center gap-4 mt-4">
           <Button variant="default" asChild>
-            <a href="/cv-kauapaixao.pdf" download>
+            <a href="/CV - Kauã Paixão.pdf" download>
               <FileDown className="mr-2 h-4 w-4" /> Baixar Currículo
             </a>
           </Button>
