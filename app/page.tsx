@@ -7,27 +7,22 @@ export default function PortfolioKauaPaixao() {
     {
       name: "Site Vedapremix",
       link: "https://vedapremix.com.br",
-      description: "Gerenciamento completo do site institucional e e-commerce, incluindo cadastro de produtos, manutenção e melhorias de interface.",
+      description: "Gestão técnica e manutenção contínua do e-commerce industrial, incluindo atualização de catálogo de produtos, configuração de plugins, otimização de SEO on-page e melhorias de UI/UX para experiência de busca do cliente.",
     },
     {
       name: "Site Porte Paixão Imóveis",
       link: "https://www.portepaixaoimoveis.com.br",
-      description: "Gerenciamento completo do site institucional e e-commerce, incluindo cadastro de imóveis, manutenção e melhorias de interface.",
+      description: "Administração de site institucional imobiliário, com atualização de conteúdo e imóveis, gestão de anúncios de imóveis, testes de usabilidade e ajustes de interface voltados à conversão de leads.",
     },
     {
-      name: "Sistema de Ocorrências (Java + Spring Boot)",
-      link: "https://gitlab.com/gotis2/gotis-projeto-desenvolvimento-software",
-      description: "CRUD completo com autenticação JWT e persistência em banco de dados H2.",
+      name: "App Tamo no Lance X1",
+      link: "https://tamo-no-lance.vercel.app",
+      description: "Tamo No Lance é uma equipe de futsal de várzea que promove eventos de X1 (1 contra 1) na Zona Leste de São Paulo. Como esses eventos envolvem apostas entre os espectadores, a equipe precisava de uma forma organizada de registrar quem apostou, em quem e quanto, para acertar os pagamentos com cada apostador ao final do evento.Desenvolvi um site onde os usuários fazem um cadastro simples (nome, e-mail e WhatsApp) e escolhem o valor que desejam apostar em cada confronto da semana. Cada cadastro e cada aposta são registrados automaticamente e notificados por e-mail ao responsável da equipe, que usa essas informações para entrar em contato com os apostadores após o evento e realizar os acertos financeiros. Stack: Next.js, React, TypeScript, Tailwind CSS, Prisma, Supabase (PostgreSQL), Resend.",
     },
     {
-      name: "Jogo de Educação Ambiental (Python)",
+      name: "Jogo de Educação Ambiental",
       link: "https://github.com/kauapaixao/Projetos-Jogos-Completamente-Digitais",
       description: "Todas as fases de implementação, relatórios, documentação e código completo do jogo desenvolvido em equipe.",
-    },
-    {
-      name: "Webservice (Java + Spring Boot)",
-      link: "https://github.com/kauapaixao/webservice",
-      description: "Projeto mais simples para aprendizado de Java de Spring Boot.",
     }
   ];
 
