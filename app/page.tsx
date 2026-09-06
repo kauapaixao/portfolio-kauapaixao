@@ -17,7 +17,7 @@ export default function PortfolioKauaPaixao() {
     {
       name: "App Tamo no Lance X1",
       link: "https://tamo-no-lance.vercel.app",
-      description: "Tamo No Lance é uma equipe de futsal de várzea que promove eventos de X1 (1 contra 1) na Zona Leste de São Paulo. Como esses eventos envolvem apostas entre os espectadores, a equipe precisava de uma forma organizada de registrar quem apostou, em quem e quanto, para acertar os pagamentos com cada apostador ao final do evento.Desenvolvi um site onde os usuários fazem um cadastro simples (nome, e-mail e WhatsApp) e escolhem o valor que desejam apostar em cada confronto da semana. Cada cadastro e cada aposta são registrados automaticamente e notificados por e-mail ao responsável da equipe, que usa essas informações para entrar em contato com os apostadores após o evento e realizar os acertos financeiros. Stack: Next.js, React, TypeScript, Tailwind CSS, Prisma, Supabase (PostgreSQL), Resend.",
+      description: "Site para uma equipe de futsal de várzea gerenciar apostas em eventos de X1, registrando apostador, valor e confronto para acerto financeiro pós-evento. Stack: Next.js, React, TypeScript, Tailwind CSS, Prisma, Supabase (PostgreSQL), Resend.",
     },
     {
       name: "Jogo de Educação Ambiental",
